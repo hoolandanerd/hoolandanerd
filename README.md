@@ -48,19 +48,34 @@ Meu objetivo é unir conhecimentos de **hardware, infraestrutura e desenvolvimen
 
 ---
 
-## 🛠️ Meus projetos
 
-### ⚡ Fonte de bancada com fonte ATX
+## 🔬 Meus projetos de Hardware
 
-Construí uma fonte de alimentação de bancada utilizando uma fonte ATX de computador reaproveitada.
+### ⚡ Fonte de bancada ATX
 
-O objetivo foi transformar um componente de computador em uma ferramenta útil para testes e experimentos eletrônicos.
+Fonte de bancada construída a partir de uma fonte ATX
+reaproveitada, com gabinete personalizado, instrumentos
+de medição, bornes, fusíveis e conexões USB.
 
-**Conhecimentos aplicados:** eletrônica, fontes de alimentação, manutenção e reaproveitamento de hardware.
+<p align="center">
+  <img src="./fonte-atx.jpeg" alt="Fonte de bancada ATX"
+       width="550">
+</p>
 
-### 🖥️ HOMETECH — Servidor NAS caseiro
+### 🖥️ HOMETECH — Servidor NAS
 
-Montei um servidor NAS utilizando componentes de um computador antigo, criando uma solução própria para armazenamento e gerenciamento de arquivos.
+Servidor NAS construído com componentes de um computador
+antigo, utilizando TrueNAS, Nextcloud e monitoramento
+integrado com ESP32.
+
+O gabinete possui cinco baias frontais para discos,
+ventilação personalizada e display touchscreen.
+
+<p align="center">
+  <img src="./servidor-nas.jpeg" alt="Servidor NAS HOMETECH"
+       width="550">
+</p>
+
 
 **Tecnologias utilizadas:**
 

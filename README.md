@@ -57,8 +57,12 @@ Fonte de bancada construída a partir de uma fonte ATX
 reaproveitada, com gabinete personalizado, instrumentos
 de medição, bornes, fusíveis e conexões USB.
 
+
+<h3>⚡ Fonte de bancada ATX</h3>
+
 <p align="center">
-  <img src="./fonte-atx.jpeg" alt="Fonte de bancada ATX"
+  <img src="./fonte-atx.jpg"
+       alt="Fonte de bancada ATX"
        width="550">
 </p>
 
@@ -71,11 +75,13 @@ integrado com ESP32.
 O gabinete possui cinco baias frontais para discos,
 ventilação personalizada e display touchscreen.
 
+<h3>🖥️ HOMETECH — Servidor NAS</h3>
+
 <p align="center">
-  <img src="./servidor-nas.jpeg" alt="Servidor NAS HOMETECH"
+  <img src="./servidor-nas.jpg"
+       alt="Servidor NAS HOMETECH"
        width="550">
 </p>
-
 
 **Tecnologias utilizadas:**
 
